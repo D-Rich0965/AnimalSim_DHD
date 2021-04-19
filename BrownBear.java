@@ -135,4 +135,16 @@ public class BrownBear extends Animal implements Walkable, Swimmable {
     		}
     }
 
+		@Override
+		public void swim(int direction) {
+			// TODO Auto-generated method stub
+			
+		}
+
+		@Override
+		public void walk(int direction) {
+			// TODO Auto-generated method stub
+			
+		}
+
 }//end class
